@@ -1,1 +1,1 @@
-# cy notion site template
+# cy – notion site template
