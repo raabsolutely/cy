@@ -269,7 +269,7 @@ h3.notion-heading .notion-semantic-string {
   background: transparent !important;
 }
 .notion-collection-card__cover.large, .notion-collection-card__cover.large>div, .notion-collection-card__cover.large img, .notion-collection-card__cover.medium, .notion-collection-card__cover.medium>div, .notion-collection-card__cover.medium img {
-  height: auto !important;
+  height: 400px;
   max-height: none !important;
 }
 .notion-collection-card__cover.large>div {
